@@ -6,7 +6,7 @@ The shortcut simply runs a shell script to reset the bluetooth device in your ma
 
 ## Installation & Use
 
-Download the `ResetBluetooth.zip` and extract it anywhere on your mac. Install the shortcut by double-click the file and pressing 'Add Shortcut'.
+Download [ResetBluetooth.zip](https://github.com/lukejones/reset-bluetooth-macos-shortcut/blob/main/ResetBluetooth.zip) and extract it anywhere on your mac. Install the shortcut by double-click the file and pressing 'Add Shortcut'.
 
 ![installation-use-01](https://github.com/user-attachments/assets/493ffa46-05e7-42c9-a854-cfff2b80ba3d)
 

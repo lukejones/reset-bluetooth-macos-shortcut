@@ -12,7 +12,7 @@ Download [ResetBluetooth.zip](https://github.com/lukejones/reset-bluetooth-macos
 
 Once installed, use the shortcut by clicking the Shortcut icon in your menu bar and hitting 'Reset Bluetooth'.
 
-![installation-use-02](https://github.com/user-attachments/assets/29b97fc2-eb80-4fc3-b3cb-abdb46eecdaa)
+![CleanShot 2024-11-15 at 09 54 39@2x](https://github.com/user-attachments/assets/3c6b79c8-8db8-48a1-8462-909633177207)
 
 All bluetooth devices will briefly disconnect before reconecting.
 

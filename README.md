@@ -18,4 +18,4 @@ All bluetooth devices will briefly disconnect before reconecting.
 
 ---
 
-This has helped me fix the lag that appears on my Logitech MX Master 3S / MX Master Keys in the past.
+This has helped me fix the lag that appears on my Logitech MX Master 3S / MX Master Keys [in the past](https://gist.github.com/lukejones/5de7e60295753477ea4e9ca62053cf6f).
